@@ -1,3 +1,3 @@
 ﻿  Test_1.cpp
-e:\work\git\withtt_github\proj_1\test_1\test_1\test_1.cpp(93): warning C4101: “Node”: 未引用的局部变量
-  Test_1.vcxproj -> E:\work\Git\withtt_Github\Proj_1\Test_1\Debug\Test_1.exe
+d:\data structure\datastruc\data_structure\test_1\test_1\test_1.cpp(93): warning C4101: “Node”: 未引用的局部变量
+  Test_1.vcxproj -> D:\Data Structure\datastruc\Data_Structure\Test_1\Debug\Test_1.exe

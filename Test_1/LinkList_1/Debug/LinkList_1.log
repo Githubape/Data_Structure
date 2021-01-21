@@ -1,0 +1,3 @@
+﻿  LinkList_1.cpp
+D:\Data Structure\datastruc\Data_Structure\Test_1\LinkList_1\LinkList_1.cpp(14,19): warning C4101: “j”: 未引用的局部变量
+  LinkList_1.vcxproj -> D:\Data Structure\datastruc\Data_Structure\Test_1\Debug\LinkList_1.exe
