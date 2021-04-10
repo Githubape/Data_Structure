@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30907.101
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Test_1", "Test_1\Test_1.vcxproj", "{D4BCF828-CB0D-4D6C-B144-41BB1A3A89B1}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LinkList_1", "LinkList_1\LinkList_1.vcxproj", "{C39B74AF-9E7C-4E17-B7EA-C4A54571C451}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Linear_Table_1", "Linear_Table_1\Linear_Table_1.vcxproj", "{A562C754-A236-4E4F-B1E5-F07A707A2696}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +33,14 @@ Global
 		{C39B74AF-9E7C-4E17-B7EA-C4A54571C451}.Release|x64.Build.0 = Release|x64
 		{C39B74AF-9E7C-4E17-B7EA-C4A54571C451}.Release|x86.ActiveCfg = Release|Win32
 		{C39B74AF-9E7C-4E17-B7EA-C4A54571C451}.Release|x86.Build.0 = Release|Win32
+		{A562C754-A236-4E4F-B1E5-F07A707A2696}.Debug|x64.ActiveCfg = Debug|x64
+		{A562C754-A236-4E4F-B1E5-F07A707A2696}.Debug|x64.Build.0 = Debug|x64
+		{A562C754-A236-4E4F-B1E5-F07A707A2696}.Debug|x86.ActiveCfg = Debug|Win32
+		{A562C754-A236-4E4F-B1E5-F07A707A2696}.Debug|x86.Build.0 = Debug|Win32
+		{A562C754-A236-4E4F-B1E5-F07A707A2696}.Release|x64.ActiveCfg = Release|x64
+		{A562C754-A236-4E4F-B1E5-F07A707A2696}.Release|x64.Build.0 = Release|x64
+		{A562C754-A236-4E4F-B1E5-F07A707A2696}.Release|x86.ActiveCfg = Release|Win32
+		{A562C754-A236-4E4F-B1E5-F07A707A2696}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
